@@ -1,0 +1,4 @@
+#HOLA
+hola
+-hola
+*hola
